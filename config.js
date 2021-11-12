@@ -14,7 +14,7 @@ const CONFIG = {
     btnReply: 'Gửi cho bạn <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Định rủ đi chơi nhưng đang dịch, sợ hai đứa đi cách li luôn :<.',
+    messDesc: 'Định rủ đi chơi nhưng đang dịch, sợ hai đứa đi cách li luôn :<..',
     btnAccept: 'Thôi không sao hết nè <3.',
     messLink: 'https://www.facebook.com/profile.php?id=100052547834797' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
